@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8b80245b-9cea-411c-b3eb-6eb9cb9f7cac" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framework/Characters/Character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framework/Events/Event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framework/Events/Executor.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Framework/General/Position.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/Characters/Character.py" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/Characters/Actor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
